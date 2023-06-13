@@ -14,11 +14,10 @@
 # Help Us
 ارسل اي كود او قاعدة بيانات او طلب او معلوكة ألخ...
 
-على ال Poll Requests
-
+ارفعه على ال Pull Requests أو اطلب طلبك او شكواك في ال Issues
 # Contant Me
  [Telegram Profile](https://nnk0o.t.me)
 
  [Telegram Info Channel](https://nnko0o.t.me)
 
- [twitter](https://twitter.com/PuckKintaro)
+ [twitter](https://twitter.com/PuckKintaro)s9
